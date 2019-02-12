@@ -7,6 +7,10 @@ It is third party / framework agnostic, so you can easily add it in your stack, 
 - Heavily based on JavaScript (no html attributes annotations).
 - Full async, all validations are processed as async using native [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) (LcFormValidation already gives you a polyfill for browsers that do not support promises).
 
+## Documentation
+
+Check the full documentation in [github.io page](http://lemoncode.github.io/lcFormValidation/).
+
 ## Quick start
 
 ### Defining validation constraints
@@ -247,10 +251,6 @@ testFormValidation
   });
 ```
 
-## Documentation
-
-You can see the full documentation in the [github.io page](http://lemoncode.github.io/lcFormValidation/).
-
 ## Examples
 
 ### React examples
@@ -296,7 +296,12 @@ Form validation is a complex issue, usually we can find solutions that cover the
 ## License
 [MIT](./LICENSE)
 
-# About Lemoncode
-We are a team of long-term experienced freelance developers, established as a group in 2010. We specialize in Front End technologies and .NET. [Click here](http://lemoncode.net/services/en/#en-home) to get more info about us.
+# About Basefactor + Lemoncode
+
+We are an innovating team of Javascript experts, passionate about turning your ideas into robust products.
+
+[Basefactor, consultancy by Lemoncode](http://www.basefactor.com) provides consultancy and coaching services.
+
+[Lemoncode](http://lemoncode.net/services/en/#en-home) provides training services.
 
 For the LATAM/Spanish audience we are running an Online Front End Master degree, more info: http://lemoncode.net/master-frontend
